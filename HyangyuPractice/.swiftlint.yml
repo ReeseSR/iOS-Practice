@@ -1,0 +1,16 @@
+disabled_rules:
+  - line_length
+  - trailing_whitespace
+  - orphaned_doc_comment
+  - nesting
+  - todo
+
+included:
+excluded:
+  - Pods
+  - HyangyuPractice/Source/Application/AppDelegate.swift
+  - HyangyuPractice/Source/Application/SceneDelegate.swift
+
+identifier_name:
+  excluded:
+    - id
